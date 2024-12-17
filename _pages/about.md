@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Azure DevOps | Cloud Ifrastructure | Data Engineering & Analytics
-Project management(PMI certified) | Building Energy Efficiency Specialist
+subtitle: Azure DevOps | Cloud Ifrastructure | Data Engineering & Analytics | Project management(PMI certified) | Building Energy Efficiency Specialist
 
 profile:
   align: right
