@@ -46,6 +46,6 @@ scholar_userid:  # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo:  https://i.pinimg.com/736x/1f/bd/5e/1fbd5ea2ee55a2923341a318778e591a.jpg # can be png, svg, jpg
+  logo:  https://www.feuerwehrmuseum-oberfranken.de/wp-content/uploads/2018/03/xing-square.svg.png # can be png, svg, jpg
   title: xing
   url: https://www.xing.com/profile/Yinka_Oluwarotimi/web_profiles?expandNeffi=true
