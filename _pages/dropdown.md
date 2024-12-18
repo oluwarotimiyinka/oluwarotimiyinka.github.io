@@ -11,6 +11,6 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: Research
+  - title: research
     permalink: /research/
 ---
