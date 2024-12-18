@@ -5,10 +5,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - oluwarotimiyinka/BlueGreen-Deployment
+  - oluwarotimiyinka/Azure_Release_Pipeline_DevOps
+  - oluwarotimiyinka/Data-analysis-Visualization-Project
+  - oluwarotimiyinka/VM-scaleset-Deployment-with-Custom-script
+  - oluwarotimiyinka/marven_java
+  - oluwarotimiyinka/Azure-Kubernetes-Deploy-Pipeline
