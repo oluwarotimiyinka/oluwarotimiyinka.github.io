@@ -2,24 +2,7 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
-body {
-  background: url('website_image.png') no-repeat center center fixed;
-  background-size: cover;
-  position: relative;
-}
-
-// body::before {
-//   content: '';
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   width: 100%;
-//   height: 100%;
-//   background-color: rgba(2, 6, 59, 0.5); /* Optional dark overlay */
-//   z-index: -1;
-// }
-
-// Typography
+ // Typography
 
 p,
 h1,
