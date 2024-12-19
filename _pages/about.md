@@ -2,8 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Azure DevOps | Cloud Ifrastructure | Data Engineering & Analytics<p>
+subtitle: </h3>
+          <p>Azure DevOps | Cloud Ifrastructure | Data Engineering & Analytics<p>
           <p>Project management(PMI certified) | Building Energy Efficiency Consultation<P>
+          </h3>
 
 profile:
   align: right
