@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: This webpage is coming soon
 nav: true
 nav_order: 6
 ---
 
-This webpage is coming soon
+<!-- You can write different things here -->
