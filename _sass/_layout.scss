@@ -1,20 +1,18 @@
 /******************************************************************************
  * Content
  ******************************************************************************/
-// Body-style Background
-body {
-  background-image: url('website_image.png'); // Replace with your image path
-  background-size: cover;         // Ensures the image covers the entire viewport
-  background-repeat: no-repeat;   // Prevents the image from repeating
-  background-attachment: fixed;   // Keeps the background fixed during scrolling
-  background-position: center;    // Centers the image
-}
+
+// Body Padding
 
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-
+  background-image: url('website_image.png'); // Replace with your image path
+  background-size: cover;         // Ensures the image covers the entire viewport
+  background-repeat: no-repeat;   // Prevents the image from repeating
+  background-attachment: fixed;   // Keeps the background fixed during scrolling
+  background-position: center;    // Centers the image
   h1,
   h2,
   h3,
