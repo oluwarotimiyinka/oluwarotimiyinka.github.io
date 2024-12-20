@@ -15,10 +15,21 @@
     {% include head.liquid %}
     <style>
       body {
-        background-image: url('{{ site.baseurl }}/assets/img/website.jpg'); // Ensure this line is correct
+        background-image: url('{{ site.baseurl }}/assets/img/devimage.jpg'); // Update the path
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
+        position: relative; // Add this line
+      }
+      body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 139, 0.5); // Dark deep blue overlay with 50% transparency
+        z-index: -1; // Keeps it behind the content
       }
     </style>
   </head>
