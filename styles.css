@@ -1,5 +1,5 @@
 body {
-    background-image: url('assets/img/website.jpg'); // Update the path
+    background-image: url('assets/img/website.jpg'); // Ensure this line is correct
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
