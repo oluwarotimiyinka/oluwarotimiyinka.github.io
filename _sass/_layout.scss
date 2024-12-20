@@ -8,6 +8,10 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   // background-color: var(--global-bg-color); // Remove this line
+  background-image: url('../assets/img/website.jpg'); // Update this line
+  background-size: cover; // Add this line
+  background-repeat: no-repeat; // Add this line
+  background-attachment: fixed; // Add this line
   h1,
   h2,
   h3,
