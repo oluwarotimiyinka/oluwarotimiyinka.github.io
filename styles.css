@@ -1,9 +1,9 @@
 body {
-    background-image: url('assets/img/devimage.jpg'); // Update the path
+    background-image: url('assets/img/devimage.jpg'); // Ensure this line is correct
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    position: relative; // Add this line
+    position: relative; // Ensure this line is correct
 }
 
 body::before {
@@ -13,6 +13,6 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 139, 0.8); // Dark deep blue overlay with 50% transparency
+    background: rgba(0, 0, 51, 0.5); // Black blue overlay with 50% transparency
     z-index: -1; // Keeps it behind the content
 }
