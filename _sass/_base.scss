@@ -1523,7 +1523,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // Body-style Background
 body {
-  background-image: url('/assets/images/website_image.png'); // Replace with your image path
+  background-image: url('website_image.png'); // Replace with your image path
   background-size: cover;         // Ensures the image covers the entire viewport
   background-repeat: no-repeat;   // Prevents the image from repeating
   background-attachment: fixed;   // Keeps the background fixed during scrolling
