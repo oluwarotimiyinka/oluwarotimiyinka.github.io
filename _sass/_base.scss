@@ -1090,11 +1090,6 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     margin-bottom: 0;
-    background-image: url('/assets/img/website_image.png'); // Path to your image
-    background-size: cover;         // Ensure the image covers the viewport
-    background-repeat: no-repeat;   // Prevent repeating the image
-    background-attachment: fixed;   // Keep the image fixed while scrolling
-    background-position: center;    // Center the image
   }
 
   .post-tags {
